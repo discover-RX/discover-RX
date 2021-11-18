@@ -2,8 +2,6 @@
 layout: post
 title: About us
 subtitle: What is discoveRx
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 ---
 

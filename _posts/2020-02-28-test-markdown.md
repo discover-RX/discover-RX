@@ -1,78 +1,16 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: About us
+subtitle: What is discoveRx
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+We are discoveRx! Our team members are Garret Ceravantez, Sean Harbertson, Viet Nguyen, and Elvin Pok.
 
-**Here is some bold text**
+Get to know us
 
-## Here is a secondary heading
+### Our story
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+From January 2021, we have been working on a web application that interfaces with Spotify to help users hone in on their reccommendations. As music lovers, we made something that we could be proud of. Our application allows users to create new playlists from their most recent listening history, create playlists from already existing playlists, and filter these suggested playlists by utilizing traditional music information (artist, album, year) but also using Spotify's audio feature data (danceability, energy, etc.). We hope that we can empower Spotify user's to find new music with our application.

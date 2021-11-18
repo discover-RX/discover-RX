@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About us
-subtitle: What is DiscoveRx
+subtitle: What is discoveRx
 ---
 
-We are DiscoveRx! Our team members are Garret Ceravantez, Sean Harbertson, Viet Nguyen, and Elvin Pok.
+We are discoveRx! Our team members are Garret Ceravantez, Sean Harbertson, Viet Nguyen, and Elvin Pok.
 
 Get to know us
 

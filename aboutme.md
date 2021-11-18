@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: What is DiscoveRx
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are DiscoveRx! Our team members are Garret Ceravantez, Sean Harbertson, Viet Nguyen, and Elvin Pok.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Get to know us
 
-What else do you need?
+### Our story
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+From January 2021, we have been working on a web application that interfaces with Spotify to help users hone in on their reccommendations. As music lovers, we made something that we could be proud of. Our application allows users to create new playlists from their most recent listening history, create playlists from already existing playlists, and filter these suggested playlists by utilizing traditional music information (artist, album, year) but also using Spotify's audio feature data (danceability, energy, etc.). We hope that we can empower Spotify user's to find new music with our application.

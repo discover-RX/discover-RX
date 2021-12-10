@@ -4,10 +4,17 @@ title: About us
 subtitle: What is discoveRx
 ---
 
-We are discoveRx! Our team members are Garret Ceravantez, Sean Harbertson, Viet Nguyen, and Elvin Pok.
+# Our Application
+DiscoveRx is a web application designed to give high quality and customizable music recommendations on demand.  The application interfaces with Spotify to do this making the process seamless.  We have a custom recommendation algorithm using data from our database with 25 million records.  We allow further customization of your music recommendations based on 32 filters that allow the user to make restrictions based on things like the beats per minute, how popular the song is, or how many beats appear in each bar.  We hope that we can empower Spotify user’s to find new music with our application. Check out our application [here!](https://discoverx-capstone.herokuapp.com/)
 
-Get to know us
 
-### Our story
+# Our Team
+**Garret Cervantez:** Backend Software Developer
 
-From January 2021, we have been working on a web application that interfaces with Spotify to help users hone in on their reccommendations. As music lovers, we made something that we could be proud of. Our application allows users to create new playlists from their most recent listening history, create playlists from already existing playlists, and filter these suggested playlists by utilizing traditional music information (artist, album, year) but also using Spotify's audio feature data (danceability, energy, etc.). We hope that we can empower Spotify user's to find new music with our application. Check out our application [here!](https://discoverx-capstone.herokuapp.com/)
+**Sean Harbertson:** Backend Software Developer
+
+**Viet Nguyen:** Frontend Software Developer
+
+**Elvin Pok:** Frontend Software Developer
+
+
